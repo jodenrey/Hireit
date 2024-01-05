@@ -52,15 +52,11 @@ To get a local copy up and running follow these simple steps.
     ```sh
     git clone https://github.com/jodenrey/hireit.git
     ```
-2. Get into the project
-    ```sh
-    cd phive
-    ```
-3. Install the frontend packages (NPM)
+2. Install the frontend packages (NPM)
     ```sh
     npm install
     ```
-4. Install the backend packages
+3. Install the backend packages
     ```sh
     composer install
     ```
